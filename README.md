@@ -9,3 +9,6 @@ react boilerplate
 + Tslint
 + React
 + Redux
++ React-router
++ axios
++ styled-components
