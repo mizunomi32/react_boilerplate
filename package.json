@@ -1,0 +1,8 @@
+{
+  "name": "react_boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mizunomi32/react_boilerplate.git",
+  "author": "mz32 <mizuno@mz32.dev>",
+  "license": "MIT"
+}
